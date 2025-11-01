@@ -18,7 +18,7 @@ def get_start_content(ui: flet_pages.pages):
                 # Logo
                 ft.Container(
                     content=ft.Image(
-                        src="public/logo.png",
+                        src="assets/logo.png",
                         width=150,
                         height=150,
                         border_radius=75,  # 圆角
