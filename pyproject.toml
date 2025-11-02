@@ -9,6 +9,6 @@ authors = [
 readme = "README.md"
 dependencies = [
     "flet-pages>=0.0.2",
-    "flet[all]==0.27.1",
+    "flet[all]",
     "pyinstaller>=6.16.0",
 ]
